@@ -55,7 +55,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/vexora-0/vexora-0/output/snake.svg" alt="Snake animation" />
-
-###
